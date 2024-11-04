@@ -43,29 +43,6 @@ Codes Executed:
 9. Logarithmic Scale
 10. Plotting with Annotations
 
-# DEEP LEARNING IMAGE PROCESSING
-
-Use Case - Digitizing and executing images with help of vision(deep learning-cnn) frameworks/libraries.
-
-Library Used - OpenCV
-
-Codes Executed:
-1. Image Reading
-2. Image Crop
-3. Image Resizing
-4. Image Rotation
-5. Gray-Scale conversion
-6. Contour
-7. Blurr
-8. Dilation and Erosion
-9. HSV
-10. Image Concatination
-11. Thresholding
-12. Template Matching
-13. Histogram
-14. Canny Edge Detection
-15. Morphological Operation
-
 # DATA VISUALIZATION STATISTICAL
 
 Use Case - Used for creating visually appealing, statistically-focused plots with minimal code.
