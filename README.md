@@ -111,3 +111,27 @@ Codes Executed:
 Use Case - Processing, Analysing and Visualizing the Sales data
 
 Libraries Used - Pandas, MatPlotLib, Seaborn
+
+# DataVista: Sales Data Analysis and Visualization
+
+Dataset used: Retail Sales Data
+
+Use Case: Given the dataset of a retail company, we need to use python libraries to look
+into the dataset to gain insights of data and identify interesting trends/patterns.
+
+Libraries used : NumPy, Pandas, Matplotlib, Math, Seaborn.
+
+Data Operations performed: Mean, Median, count, min, max, Data Cleaning, Removing outliers, EDA
+
+Data Visualization: 
+1. Box plot
+2. Pie Chart and Bar Chart
+3. Histogram
+4. Bar chart for categorial attributes Category, SubCategory, Promotion and Region.
+5. Bar chart for sales of each day of week.
+
+Normalization:
+1. Kmeans
+2. Correlation coefficients
+3. Scatter Plot
+4. Heatmap
